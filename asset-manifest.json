@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/betlog/static/css/main.b0eac221.css",
+    "main.js": "/betlog/static/js/main.c8ab8972.js",
+    "static/js/453.abb054f1.chunk.js": "/betlog/static/js/453.abb054f1.chunk.js",
+    "index.html": "/betlog/index.html",
+    "main.b0eac221.css.map": "/betlog/static/css/main.b0eac221.css.map",
+    "main.c8ab8972.js.map": "/betlog/static/js/main.c8ab8972.js.map",
+    "453.abb054f1.chunk.js.map": "/betlog/static/js/453.abb054f1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b0eac221.css",
+    "static/js/main.c8ab8972.js"
+  ]
+}
